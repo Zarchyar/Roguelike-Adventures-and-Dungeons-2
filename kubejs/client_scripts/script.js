@@ -237,5 +237,5 @@ event.hide('apotheosis:iron_mining_arrow')
 event.hide('apotheosis:diamond_mining_arrow')
 event.hide('relics:magic_mirror')
 
-event.hide('rats:rat_upgrade_voodoo')
+//event.hide('rats:rat_upgrade_voodoo')
 })
