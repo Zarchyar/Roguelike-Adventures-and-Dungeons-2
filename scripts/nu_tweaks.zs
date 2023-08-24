@@ -15,7 +15,7 @@ import crafttweaker.api.food.MCFood;
 <item:simplefarming:cheese_slice>.food = new MCFood(2, 0.1);
 <item:simplefarming:cheeseburger>.food = new MCFood(6, 0.5);
 <item:projectvibrantjourneys:clam>.food = new MCFood(3, 0.8);
-<item:rats:contaminated_food>.food = new MCFood(2, -1.2);
+//<item:rats:contaminated_food>.food = new MCFood(2, -1.2);
 <item:betterdefaultbiomes:cooked_frog_leg>.food = new MCFood(2, 0.15);
 <item:quark:cooked_frog_leg>.food = new MCFood(2, 0.15);
 <item:aquaculture:frog_legs_cooked>.food = new MCFood(3, 0.2);
