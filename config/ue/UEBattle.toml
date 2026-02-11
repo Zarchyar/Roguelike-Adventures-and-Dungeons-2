@@ -273,9 +273,9 @@
 			#Allows to add custom compatible Items
 			compatible_items = []
 			#Range: 0.0 ~ 1.7976931348623157E308
-			damage = 1.0
+			damage = 1.5
 			#Range: 0.0 ~ 1.7976931348623157E308
-			durability = 1.0
+			durability = 0.125
 
 		[general.battle.granis_soul]
 			#If the Enchantment is Obtainable
